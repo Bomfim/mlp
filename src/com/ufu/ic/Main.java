@@ -1,4 +1,4 @@
-package com.facom;
+package com.ufu.ic;
 
 import java.io.BufferedReader;
 import java.io.IOException;

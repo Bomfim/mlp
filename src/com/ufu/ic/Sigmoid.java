@@ -1,4 +1,4 @@
-package com.facom;
+package com.ufu.ic;
 
 public class Sigmoid extends Activation {
 

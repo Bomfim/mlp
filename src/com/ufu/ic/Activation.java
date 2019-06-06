@@ -1,4 +1,4 @@
-package com.facom;
+package com.ufu.ic;
 
 public abstract class Activation {
 
